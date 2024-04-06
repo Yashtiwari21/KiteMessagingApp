@@ -1,0 +1,16 @@
+PODS:
+  - CountryPickerView (3.3.0)
+
+DEPENDENCIES:
+  - CountryPickerView
+
+SPEC REPOS:
+  trunk:
+    - CountryPickerView
+
+SPEC CHECKSUMS:
+  CountryPickerView: 6322ada32a80b0cd721b0267282a5c24f406f263
+
+PODFILE CHECKSUM: 199d82914404895e2a753ab5d8575caf33969e4a
+
+COCOAPODS: 1.15.2
